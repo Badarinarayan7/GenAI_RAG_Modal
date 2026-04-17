@@ -24,7 +24,7 @@ groq_api_key = st.secrets["GROQ_API_1"]
 
 # ------------------ UI ------------------
 st.set_page_config(page_title="Dynamic RAG with Groq", layout="wide")
-st.image("PragyanAI_Transperent.png")
+st.image("Screenshot 2026-01-06 230804.png")
 st.title("Dynamic RAG with Groq, FAISS, and Llama3")
 
 # ------------------ SESSION STATE ------------------
